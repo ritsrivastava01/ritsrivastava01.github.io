@@ -1,0 +1,25 @@
+{
+  "header": {
+    "about-me": "About Me",
+    "experience": "My portfolio",
+    "skills": "my Skills",
+    "portfolio": "portfolio",
+    "projects": "Feature",
+    "contact-me": "contact me"
+  },
+  "profile": {
+    "tagline1": "Hello, I'm",
+    "tagline2": " I'm a Front-end developer.",
+    "buttonText": " View my work"
+  },
+  "about-me": {
+    "fast": "Fast",
+    "fast-text": " Fast load times and lag free interaction, my highest priority.",
+    "responsive": "Responsive",
+    "responsive-text": "My layouts will work on any device, big or small.",
+    "intuitive": "Intuitive",
+    "intuitive-text": "Strong preference for easy to use, intuitive UX/UI.",
+    "dynamic": "Dynamic",
+    "dynamic-text": " Websites don't have to be static, I love making pages come to life."
+  }
+}
