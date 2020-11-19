@@ -1,65 +1,65 @@
 {
   "header": {
-    "about-me": "%About Me",
-    "experience": "%My portfolio",
-    "skills": "%my Skills",
-    "portfolio": "%portfolio",
-    "projects": "%Feature",
-    "contact-me": "%contact me"
+    "about-me": "Over mij",
+    "experience": "Mijn portfolio",
+    "skills": "mijn vaardigheden",
+    "portfolio": "portfolio",
+    "projects": "Feature",
+    "contact-me": "contacteer mij"
   },
   "profile": {
-    "tagline1": "%Hello, I'm",
-    "tagline2": " %I'm a Front-end developer.",
-    "buttonText": " %View my work"
+    "tagline1": "Hallo, ik ben",
+    "tagline2": "Ik ben een front-end ontwikkelaar.",
+    "buttonText": "Bekijk mijn werk"
   },
   "about-me": {
-    "fast": "%Fast",
-    "fast-text": " %Fast load times and lag free interaction, my highest priority.",
-    "responsive": "%Responsive",
-    "responsive-text": "%My layouts will work on any device, big or small.",
-    "intuitive": "%Intuitive",
-    "intuitive-text": "%Strong preference for easy to use, intuitive UX/UI.",
-    "dynamic": "%Dynamic",
-    "dynamic-text": " %Websites don't have to be static, I love making pages come to life.",
-    "text-1": "%I am Microsoft Specialist in \"Programming in HTML 5 with JavaScript and CSS3\" having 13+ years of experience in Development using HTML5, Angular, JQuery, Typescript with exposure to all phases of Software Design Development life cycle. Possess strong analytical, verbal, interpersonal skills that help in communicating with Developers, team members an documentation. Involved in mentoring and coaching to each other in team. Actively participated in all Agile events.",
-    "text-2": "%I spend most of my days programming in Angular apps, android app, npm packages, contributing to open source projects and organising local developer user groups.",
-    "text-3": "%I am currently based in Amsterdam, Netherlands with my wife, son and daughter.",
-    "text-4": "%Apart from my day to day activities, I like to go for adventurous trip, cooking and listening music."
+    "fast": "Snel",
+    "fast-text": "Mijn hoogste prioriteit zijn snelle laadtijden en vertragingsvrije interactie.",
+    "responsive": "Responsive",
+    "responsive-text": "Mijn lay-outs zijn responsief, dus het werkt op elk apparaat.",
+    "intuitive": "Intuïtief",
+    "intuitive-text": "Sterke voorkeur voor gebruiksvriendelijke, intuïtieve UX / UI.",
+    "dynamic": "Dynamic",
+    "dynamic-text": "Websites hoeven niet statisch te zijn, ik vind het heerlijk om pagina's tot leven te laten komen.",
+    "text-1": "Ik ben Microsoft Specialist in \" Programmeren in HTML 5 met JavaScript en CSS3 \" met 13+ jaar ervaring in ontwikkeling met HTML5, Angular, JQuery, Typoscript met blootstelling aan alle fasen van het leven van Software Design Development Cyclus. Beschikken over sterke analytische, verbale, interpersoonlijke vaardigheden die helpen bij het communiceren met ontwikkelaars, teamleden en documentatie. Betrokken bij mentoring en coaching naar elkaar in team. Actief deelgenomen aan alle Agile-evenementen. ",
+    "text-2": "Ik breng het grootste deel van mijn dagen door met programmeren in Angular-apps, Android-app, npm-pakketten, bijdragen aan open source-projecten en het organiseren van lokale gebruikersgroepen voor ontwikkelaars.",
+    "text-3": "Ik ben momenteel gevestigd in Amsterdam, Nederland met mijn vrouw, zoon en dochter.",
+    "text-4": "Naast mijn dagelijkse bezigheden, ga ik graag voor avontuurlijke reizen, koken en naar muziek luisteren."
   },
   "work-experience": {
-    "open-source": "%Open source",
-    "google-play-store": "%Google play Store",
+    "open-source": "Open source",
+    "google-play-store": "Google play Store",
     "card": {
-      "get-it-on": "%Get it on",
+      "get-it-on": "Get it on",
       "calender": {
         "title": "Calender Component",
-        "description": "%Simple plug and play calender component based on Angular. For installation and use, please follow the instructions in readme file."
+        "description": "Eenvoudige plug-and-play kalendercomponent op basis van Angular. Volg voor installatie en gebruik de instructies in het leesmij-bestand."
       },
       "flip": {
         "title": "Flip Component",
-        "description": "%Very simple to use flip component based on Angular. For installation and use, please follow the instructions in readme file."
+        "description": "Zeer eenvoudig te gebruiken flip-component op basis van Angular. Volg voor installatie en gebruik de instructies in het readme-bestand."
       },
       "dino-run": {
         "title": "Dino Run App",
-        "description": "%A classic run game, which takes to the flashback of childhood. The game allows you to take control of our little boy Dino who runs through the jungle while dealing with the enemies on the way."
+        "description": "Een klassiek run-spel, dat naar de flashback van de kindertijd gaat. Met de game kun je de controle nemen over onze kleine jongen Dino die door de jungle rent terwijl hij onderweg met de vijanden te maken heeft."
       },
       "tips": {
         "title": "TS Tips App",
-        "description": "%This is an awesome project about short and useful typescript. With less than 2 minutes, you will be able to read about all the items that will be future of this awesome language."
+        "description": "Dit is een geweldig project over een kort en handig typoscript. In minder dan 2 minuten kun je lezen over alle items die de toekomst zullen zijn van deze geweldige taal."
       }
     }
   },
   "contact": {
-    "contact-me": "%Contact Me",
-    "question": "%Have a question or want to work together?",
-    "thanks": "%Thanks for the message, I'll contact soon!",
-    "name": "%Name",
-    "required": "%required",
-    "name-is": "%Name is",
-    "email": "%Email",
-    "email-is": "%Email is",
-    "message": "%Message",
-    "max-length": "%Max 50 characters",
-    "message-max-length": "%Max 250 characters"
+    "contact-me": "Neem contact met mij op",
+    "question": "Heeft u een vraag of wilt u samenwerken?",
+    "thanks": "Bedankt voor het bericht, ik neem spoedig contact op!",
+    "name": "naam",
+    "required": "required",
+    "name-is": "Naam is",
+    "email": "E-mail",
+    "email-is": "E-mail is",
+    "message": "Bericht",
+    "max-length": "Max. 50 tekens",
+    "message-max-length": "Max. 250 tekens"
   }
 }
