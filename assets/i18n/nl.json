@@ -1,0 +1,65 @@
+{
+  "header": {
+    "about-me": "%About Me",
+    "experience": "%My portfolio",
+    "skills": "%my Skills",
+    "portfolio": "%portfolio",
+    "projects": "%Feature",
+    "contact-me": "%contact me"
+  },
+  "profile": {
+    "tagline1": "%Hello, I'm",
+    "tagline2": " %I'm a Front-end developer.",
+    "buttonText": " %View my work"
+  },
+  "about-me": {
+    "fast": "%Fast",
+    "fast-text": " %Fast load times and lag free interaction, my highest priority.",
+    "responsive": "%Responsive",
+    "responsive-text": "%My layouts will work on any device, big or small.",
+    "intuitive": "%Intuitive",
+    "intuitive-text": "%Strong preference for easy to use, intuitive UX/UI.",
+    "dynamic": "%Dynamic",
+    "dynamic-text": " %Websites don't have to be static, I love making pages come to life.",
+    "text-1": "%I am Microsoft Specialist in \"Programming in HTML 5 with JavaScript and CSS3\" having 13+ years of experience in Development using HTML5, Angular, JQuery, Typescript with exposure to all phases of Software Design Development life cycle. Possess strong analytical, verbal, interpersonal skills that help in communicating with Developers, team members an documentation. Involved in mentoring and coaching to each other in team. Actively participated in all Agile events.",
+    "text-2": "%I spend most of my days programming in Angular apps, android app, npm packages, contributing to open source projects and organising local developer user groups.",
+    "text-3": "%I am currently based in Amsterdam, Netherlands with my wife, son and daughter.",
+    "text-4": "%Apart from my day to day activities, I like to go for adventurous trip, cooking and listening music."
+  },
+  "work-experience": {
+    "open-source": "%Open source",
+    "google-play-store": "%Google play Store",
+    "card": {
+      "get-it-on": "%Get it on",
+      "calender": {
+        "title": "Calender Component",
+        "description": "%Simple plug and play calender component based on Angular. For installation and use, please follow the instructions in readme file."
+      },
+      "flip": {
+        "title": "Flip Component",
+        "description": "%Very simple to use flip component based on Angular. For installation and use, please follow the instructions in readme file."
+      },
+      "dino-run": {
+        "title": "Dino Run App",
+        "description": "%A classic run game, which takes to the flashback of childhood. The game allows you to take control of our little boy Dino who runs through the jungle while dealing with the enemies on the way."
+      },
+      "tips": {
+        "title": "TS Tips App",
+        "description": "%This is an awesome project about short and useful typescript. With less than 2 minutes, you will be able to read about all the items that will be future of this awesome language."
+      }
+    }
+  },
+  "contact": {
+    "contact-me": "%Contact Me",
+    "question": "%Have a question or want to work together?",
+    "thanks": "%Thanks for the message, I'll contact soon!",
+    "name": "%Name",
+    "required": "%required",
+    "name-is": "%Name is",
+    "email": "%Email",
+    "email-is": "%Email is",
+    "message": "%Message",
+    "max-length": "%Max 50 characters",
+    "message-max-length": "%Max 250 characters"
+  }
+}
