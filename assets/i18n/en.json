@@ -2,7 +2,7 @@
   "header": {
     "about-me": "About Me",
     "experience": "My portfolio",
-    "skills": "my Skills",
+    "skills": "TECHNICAL skills",
     "portfolio": "portfolio",
     "projects": "Feature",
     "contact-me": "contact me"
@@ -13,17 +13,17 @@
     "buttonText": " View my work"
   },
   "about-me": {
-    "fast": "Fast",
-    "fast-text": "My highest priority is fast load times and lag free interaction.",
+    "fast": "Fast & SEO",
+    "fast-text": "My highest priority is fast load times, lag free interaction. Also I make sure that the website is SEO friendly.",
     "responsive": "Responsive",
-    "responsive-text": "My layouts are responsive so it will work on any device.",
+    "responsive-text": "My layouts are responsive so it will work on any device. Desktop, tablet or mobile.",
     "intuitive": "Intuitive",
-    "intuitive-text": "Strong preference for easy to use, intuitive UX/UI.",
+    "intuitive-text": "Strong preference for easy to use, intuitive UX/UI. I love to make things which are easy to use and beautiful.",
     "dynamic": "Dynamic",
-    "dynamic-text": "Websites don't have to be static, I love making pages come to life.",
-    "text-1": "I am Microsoft Specialist in \"Programming in HTML 5 with JavaScript and CSS3\" having 13+ years of experience in Development using HTML5, Angular, JQuery, Typescript with exposure to all phases of Software Design Development life cycle. Possess strong analytical, verbal, interpersonal skills that help in communicating with Developers, team members an documentation. Involved in mentoring and coaching to each other in team. Actively participated in all Agile events.",
-    "text-2": "I spend most of my days programming in Angular apps, android app, npm packages, contributing to open source projects and organising local developer user groups.",
-    "text-3": "I am currently based in Amsterdam, Netherlands with my wife, son and daughter.",
+    "dynamic-text": "Websites don't have to be static, I love making pages come to life. I have strong skills in this.",
+    "text-1": "I am a Microsoft Certified Specialist in <span class='fs-1'>Programming in HTML5 with JavaScript and CSS3</span> with 15+ years of experience in front-end development, specializing in Next.js, SSR, SEO, and performance optimization. Skilled in React, Angular, TypeScript, and modern architectures like micro frontends and monorepos, I have expertise across the entire SDLC, ensuring high-quality, scalable applications. Passionate about code quality, accessibility, and Core Web Vitals, I leverage tools like Lighthouse, Jest, Cypress, and Webpack. As an Agile practitioner, I actively contribute to Scrum events, mentoring, and cross-team collaboration, fostering knowledge-sharing and team growth.",
+    "text-2": "I spend most of my days programming in NextJs, android app, npm packages, contributing to open source projects and organising local developer user groups.",
+    "text-3": "I am currently based in Almere, Netherlands with my wife, son and daughter.",
     "text-4": "Apart from my day to day activities, I like to go for adventurous trip, cooking and listening music."
   },
   "work-experience": {
